@@ -1,6 +1,6 @@
  ![MasterHead](https://tridenstechnology.com/wp-content/uploads/2020/02/Programming-Languages-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Eren Çiçek</h1>
-<h3 align="center">A passionate fullstack developer from Türkiye</h3>
+<h3 align="center">A passionate backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **.Net**
 
